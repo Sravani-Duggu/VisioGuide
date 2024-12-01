@@ -237,7 +237,7 @@ st.markdown(
     <hr>
     <footer class="footer">
         <p>Powered by <strong>Google Gemini API</strong> | Built and designed with Streamlit</p>
-        <p><a href="https://github.com/your-repo-link">View on GitHub</a></p>
+        <p><a href="https://github.com/Sravani-Duggu/VisioGuide">View on GitHub</a></p>
     </footer>
     """,
     unsafe_allow_html=True
